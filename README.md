@@ -19,6 +19,10 @@
 + 接上传感器模块后，3.3V 供电无法开关切换，原因: 传感模块 5V 电源没有考虑开关
 + USB DP 1.5k 上拉电阻没有必要，芯片内部已经实现了，故独立使用LED功能.
 
+## 原理图
+
+[PDF Version](Output/PMToy.pdf)
+
 ## 实物照片
 
 ![screenshot](Screenshot/DSC01269.JPG)
